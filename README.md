@@ -28,19 +28,22 @@ Is React mature enough for WEB? Yes, the most.
 
 Is Electron mature enough for Desktop? If you like VSCode, Atom, Slack or some of [385 apps](https://electron.atom.io/apps/) and believe in GitHub - Yes.
 
-Is React Native mature enough for Mobile? Instagram, Skype, Airbnb, Walmart and [other](https://facebook.github.io/react-native/showcase.html) already use it and you can read how they did it. And if you believe in FaceBook - I believe Yes.
+Is React Native mature enough for Mobile? Instagram, Skype, Airbnb, Walmart and [other](https://facebook.github.io/react-native/showcase.html) already use it and you can read how they did it. And if you believe in Facebook - I believe Yes.
 
 ### What about Back-End?
 
-No matter what your language is - [GraphQL](http://graphql.org/) helps your API to be consistent.
-
-It is a good way to go with the power of JS clients like Apollo and great tooling.
+No matter what your programming language or platform is - [GraphQL](http://graphql.org/) helps your API to be consistent.
+<br/> 
+It is a comfortable way to go with the power of JS clients like [Apollo](http://dev.apollodata.com/), great tooling like [GraphiQL](https://github.com/graphql/graphiql) and many more.
 
 ### One more aspect
 
-[TypeScript](https://www.typescriptlang.org/) will be helpful to handle this complexity, especially in big team.
-TypeScript - is just ECMAScript with type definitions, extra features and awesome tooling.
-There are alternatives, but not ECMAScript cause it's the base.
+[TypeScript](https://www.typescriptlang.org/) — is JavaScript that scales.
+
+* helps to handle this complexity, especially in big team
+* is just ECMAScript with type definitions, extra features and awesome tooling
+* doesn't replace ECMAScript, it just helps you to write better
+* there are alternatives, but not ECMAScript cause it's the base
 
 ### Ready to try?
 

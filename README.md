@@ -31,13 +31,13 @@ Is React Native mature enough for Mobile? Instagram, Skype, Airbnb, Walmart and 
 
 ### What about Back-End?
 
-No matter what your language is - GraphQL helps your API to be consistent.
+No matter what your language is - [GraphQL](http://graphql.org/) helps your API to be consistent.
 
 It is a good way to go with the power of JS clients like Apollo and great tooling.
 
 ### One more aspect
 
-TypeScript will be helpful to handle this complexity, especially in big team.
+[TypeScript](https://www.typescriptlang.org/) will be helpful to handle this complexity, especially in big team.
 TypeScript - is just ECMAScript with type definitions, extra features and awesome tooling.
 There are alternatives, but not ECMAScript cause it's the base.
 

@@ -23,7 +23,7 @@ You can bind common JS code to reuse in single monorepo using ReactXP \(Skype wa
 
 ### Mature matters!
 
-Is Rect mature enough for WEB? Yes, the most.
+Is React mature enough for WEB? Yes, the most.
 
 Is Electron mature enough for Desktop? If you like VSCode, Atom, Slack, Discord and believe in GitHub - Yes.
 

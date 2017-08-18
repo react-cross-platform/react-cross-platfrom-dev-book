@@ -1,4 +1,4 @@
-# What is cross-platform development?
+# What is Cross-Platform Development?
 
 It when you write project that can be implemented on two or more platforms.
 
@@ -9,14 +9,15 @@ For example, how can we make it for iOS, Android and Windows Phone?
 
 And in this case, React Native has huge sense, cause it's main part is React and many people don't remark this.
 
-### How React solve cross-platform?
+### How React solve Cross-Platform?
 
 * WEB — [React](https://facebook.github.io/react/)
 * Mobile apps — React + [React Native](https://facebook.github.io/react-native/)
 * Desktop apps — React + [Electron](https://electron.atom.io/)
 
-You can event bind platform's common JS code in single monorepo using
-* ready solution like [ReactXP](https://microsoft.github.io/reactxp/) ([Skype story](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)) 
+You can even reuse platform's common JS code in single monorepo using
+
+* ready solutions like [ReactXP](https://microsoft.github.io/reactxp/) ([Skype story](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)) 
 * or find you own solution using [Lerna](https://lernajs.io/)
 
 `Note: if you write games - it's not your story, sorry`
@@ -47,6 +48,6 @@ Fork simple e-shop example and mock it
 
 * Mobile WEB - https://github.com/react-cross-platform/react-shop
 * iOS and Android - https://github.com/react-cross-platform/react-native-shop
-* Desktop and monorepo - sure some sunny day!
+* Desktop and monorepo with shared JS code - sure some sunny day!
 
 > To Be Continued...

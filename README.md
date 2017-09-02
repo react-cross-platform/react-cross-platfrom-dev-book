@@ -1,7 +1,7 @@
 # What is Cross-Platform Development?
 
 <html>
-<iframe src="https://shop.serga.name/graphiql" width="1000" height="100/">
+<iframe src="http://shop.serga.name/graphiql" width="1000" height="8000">
 </iframe>
 </html>
 

@@ -2,6 +2,11 @@
 
 It when you write project that can be implemented on two or more platforms.
 
+<iframe
+    src="https://shop.serga.name/graphiql" width="1000" 
+    height="500"
+</iframe>
+
 For example, how can we make it for iOS, Android and Windows Phone?
 
 * we can use Xamarin, but it useless for WEB and Desktop
@@ -17,8 +22,8 @@ And in this case, React Native has huge sense, cause it's main part is React and
 
 You can even reuse platform's common JS code in single monorepo using
 
-* ready solutions like [ReactXP](https://microsoft.github.io/reactxp/) ([Skype story](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)) 
-* or find you own solution using [Lerna](https://lernajs.io/)
+* ready solutions like [ReactXP](https://microsoft.github.io/reactxp/) ([Skype story](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html))
+* or find your own solution using [Lerna](https://lernajs.io/)
 
 `Note: if you write games - it's not your story, sorry`
 
@@ -41,7 +46,7 @@ It is a comfortable way to go with the power of JS clients like [Apollo](http://
 [TypeScript](https://www.typescriptlang.org/) — is JavaScript that scales.
 
 * helps to handle this complexity, especially in big team
-* is just ECMAScript with type definitions, extra features and awesome tooling
+* is just ECMAScript with optional types, classes, modules and awesome tooling
 * doesn't replace ECMAScript, it just helps you to write better
 * there are alternatives, but not ECMAScript cause it's the base
 

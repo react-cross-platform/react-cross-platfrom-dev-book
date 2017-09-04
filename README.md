@@ -53,6 +53,3 @@ Fork simple e-shop example and mock it
 * Desktop and monorepo with shared JS code - sure some sunny day!
 
 > To Be Continued...
-
-
-<iframe src="https://www.youtube.com/watch?v=LoAn7Y_jrIE" width=400 height=800></iframe>
